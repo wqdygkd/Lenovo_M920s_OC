@@ -1,0 +1,9 @@
+教程网址：
+https://dortania.github.io/OpenCore-Install-Guide/
+config检验地址：
+https://opencore.slowgeek.com/?fbclid=IwAR3IaXM2i8EP8VIzcvcCW4moAwHe1uOGHMqOQJ5oAaYeWgG96PuTPy4chto
+oc引导下载地址：
+https://github.com/acidanthera/OpenCorePkg/releases/
+
+
+https://github.com/ic005k/QtOpenCoreConfig/releases
