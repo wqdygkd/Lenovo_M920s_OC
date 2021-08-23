@@ -16,6 +16,17 @@ oc 版本 0.6.5
 | 网卡     | 英特尔 Ethernet Connection I219-LM / 联想         |
 | BIOS版本 | M1UKT45A                                          |
 
+
+PM981硬盘不能直接安装MAC，需要打补丁
+
+使用方法一：克隆法（一定成功）
+安装mac系统到U盘/移动硬盘/其他型号的硬盘
+克隆安装好的MAC分区到PM981硬盘
+需要补丁/ACPI/SSDT-nvme.aml和/kexts/other/HackrNVMeFamily.kext 来启动正常使用
+
+使用方法二：正常安装
+使用补丁 /kexts/NVMeFix.kext 正常安装，
+
 ```
 bios 设置
 
