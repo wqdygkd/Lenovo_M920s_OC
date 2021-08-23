@@ -1,6 +1,6 @@
 # Lenovo_M920s_OC
 
-oc 版本 0.7.2
+oc 版本 0.6.5
 
 电脑配置
 
@@ -16,6 +16,7 @@ oc 版本 0.7.2
 | 网卡     | 英特尔 Ethernet Connection I219-LM / 联想         |
 | BIOS版本 | M1UKT45A                                          |
 
+```
 bios 设置
 
 bios 中没有 CFG Lock 选项，需使用Tools中的CFGLock.efi进行CFGLock解锁操作：将值设置为 0
@@ -39,3 +40,4 @@ bios 中没有 CFG Lock 选项，需使用Tools中的CFGLock.efi进行CFGLock解
 启动菜单
     兼容模块 -> 关闭
     启动方式 -> UEFI
+```
